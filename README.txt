@@ -1,0 +1,1 @@
+clang -std=c11 -O3 -D_FORTIFY_SOURCE=2 text2hex.c
